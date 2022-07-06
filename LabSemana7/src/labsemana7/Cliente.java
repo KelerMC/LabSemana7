@@ -9,5 +9,7 @@ package labsemana7;
  * @author Usuario
  */
 public class Cliente {
+    private float credito;
+    private int putos;
     
 }
