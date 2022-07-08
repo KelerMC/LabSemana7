@@ -8,14 +8,9 @@ package labsemana7;
  *
  * @author Usuario
  */
-public class Persona {
-    private String nombres;
-    private String apellidos;
-    private String documento;
+public class Empleado extends Persona {
+    private String codigo;
+    private float  sueldo;
     
-    public Persona(String nom, String apdo, String doc) {
-        nombres=nom;
-        apellidos=apdo;
-        documento=doc;
-    }
-
+    
+}

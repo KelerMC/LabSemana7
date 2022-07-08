@@ -8,8 +8,9 @@ package labsemana7;
  *
  * @author Usuario
  */
-public class Cliente {
+public class Cliente extends Persona{
     private float credito;
     private int putos;
+    
     
 }
